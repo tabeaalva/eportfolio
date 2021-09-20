@@ -1,0 +1,60 @@
+body {
+    background-color:black;
+    color:lightblue;
+        
+}
+.layout {
+    max-width: 800px;
+}
+h1 {
+    font-size:35px;
+}
+p {
+    
+    font-size:22px;
+}
+.picture08-20 {
+    margin-bottom: 3em;
+    width: 300px;
+    height: 300px;
+}
+.picture08-27 {
+    width: 450px;
+    height: 260px;
+    margin-bottom: 3em;
+}
+.title {
+    font-size:50px;
+}
+
+.paragraph {
+    margin-top:1em;
+    font-size: 25px;
+
+}
+.container {
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mainpage {
+    text-align: center;
+    background-color: black;
+    color: lightblue;
+}
+.maintitle {
+    font-size: 60px;
+}
+.heroimage {
+    margin-right: auto;
+    margin-left: auto;
+    width: 550px;
+    height: 275px;
+}
+h2 {
+    margin-top: 2em;
+}
+.outlook {
+    list-style: none;
+    font-size: 22px;
+}
