@@ -43,7 +43,7 @@
 <footer class ="menu">
     <nav>
 <ul class="list">
-    <li><a href="../index.php"> Das ePortfolio</a></li>
+    <li><a href="/index.php"> Das ePortfolio</a></li>
     <li class="dropdown"><a href="/journal/index.php"> Die Lerndokumentation</a><ul class="sublist">
             <li><a href="/journal/2021-08-20.php"> Kompetenzen</a></li>
             <li><a href="/journal/2021-08-27.php"> Iperka</a></li>
