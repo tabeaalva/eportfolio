@@ -1,5 +1,6 @@
+<?php $title = "Lerndokumentation IPERKA"; ?>
 <?php include "../header.php"?>
-<body class="layout">
+<body class="container">
 <main>
 <h1>Lerndokumentation IPERKA</h1>
 <ul class="outlook">

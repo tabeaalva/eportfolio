@@ -1,3 +1,4 @@
+<?php $title = "Die Lerndokumentation"; ?>
 <?php include "../header.php"?>
 <body class="mainpage">
     <main class="container">

@@ -1,6 +1,6 @@
 <?php $title = "Lerndokumentation Kompetenzen"; ?>
 <?php include "../header.php"?>
-<body class="layout">
+<body class="container">
 <main>
 <h1>Lerndokumentation Kompetenzen</h1>
     

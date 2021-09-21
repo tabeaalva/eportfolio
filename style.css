@@ -3,14 +3,10 @@ body {
     color:lightblue;
         
 }
-.layout {
-    max-width: 800px;
-}
 h1 {
     font-size:35px;
 }
 p {
-    
     font-size:22px;
 }
 .picture08-20 {
@@ -57,4 +53,25 @@ h2 {
 .outlook {
     list-style: none;
     font-size: 22px;
+}
+@media (max_width){
+    .menu {
+        text-align:left;
+        background-color: lightblue;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 290px;
+        height: 140px;
+    }
+    .list {
+        color: black;
+        list-style: none;
+        
+    }
+    .list a {
+        font-size: 20px;
+        color: black; 
+        text-decoration: none;
+    }
 }

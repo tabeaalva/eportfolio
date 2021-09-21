@@ -6,6 +6,8 @@
         grid-template-rows: auto 140px;
     }
     .menu {
+        margin_left:auto;
+        margin_right: 0;
         text-align:left;
         background-color: lightblue;
         display:flex;

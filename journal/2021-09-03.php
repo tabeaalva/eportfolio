@@ -1,5 +1,6 @@
+<?php $title = "Lerndokumentation Problemlösungskonzepte"; ?>
 <?php include "../header.php"?>
-<body class="layout">
+<body class="container">
 <main>
 <h1>Lerndokumentation Problemlösungskonzepte</h1>
         <ul class="outlook">
