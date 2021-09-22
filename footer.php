@@ -1,44 +1,4 @@
 
-    <style>
-    body {
-        min-height: 100vh;
-        display:grid;
-        grid-template-rows: auto 140px;
-    }
-    .menu {
-        margin_left:auto;
-        margin_right: 0;
-        text-align:left;
-        background-color: lightblue;
-        display:flex;
-        flex-direction: row;
-        justify-content: space-between;
-        width: 290px;
-        height: 140px;
-    }
-    .list {
-        color: black;
-        list-style: none;
-        
-    }
-    .list a {
-        font-size: 20px;
-        color: black; 
-        text-decoration: none;
-    }
-    .sublist {
-        display: none;
-        color: black;
-        background-color: lightblue;
-        position: absolute;
-        list-style: none;
-    }
-    .dropdown:hover > .sublist {
-        display: block;
-        
-    }
-
-</style>
 
 <footer class ="menu">
     <nav>

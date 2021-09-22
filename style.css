@@ -1,6 +1,9 @@
 body {
     background-color:black;
     color:lightblue;
+    min-height: 100vh;
+    display:grid;
+    grid-template-rows: auto 140px;
         
 }
 h1 {
@@ -22,7 +25,6 @@ p {
 .title {
     font-size:50px;
 }
-
 .paragraph {
     margin-top:1em;
     font-size: 25px;
@@ -54,24 +56,48 @@ h2 {
     list-style: none;
     font-size: 22px;
 }
-@media (max_width){
-    .menu {
-        text-align:left;
-        background-color: lightblue;
-        display:flex;
-        flex-direction: row;
-        justify-content: space-between;
-        width: 290px;
-        height: 140px;
-    }
-    .list {
+.markdown > p > img {
+    margin-bottom: 3em;
+    width: 55%;
+    max-width: 800px;
+}
+.menu {
+    text-align:left;
+    background-color: lightblue;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 290px;
+    height: 140px;
+}
+.list {
+    color: black;
+    list-style: none;
+    
+}
+.list a {
+    font-size: 20px;
+    color: black; 
+    text-decoration: none;
+}
+
+@media (min-width: 800px){
+    .sublist {
+        display: none;
         color: black;
+        background-color: lightblue;
+        position: absolute;
         list-style: none;
+    }
+    .dropdown:hover > .sublist {
+        display: block;
         
     }
-    .list a {
-        font-size: 20px;
-        color: black; 
-        text-decoration: none;
+    
+}
+@media (min-width: 1400px){
+    .menu {
+        position: sticky;
+        bottom: 0;
     }
 }
