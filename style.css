@@ -4,12 +4,14 @@ body {
     min-height: 100vh;
     display:grid;
     grid-template-rows: auto 140px;
+    font-family: "Gemunu Libre";
         
 }
 h1 {
     font-size:35px;
 }
 p {
+    
     font-size:22px;
 }
 .picture08-20 {
@@ -61,6 +63,7 @@ h2 {
     width: 55%;
     max-width: 800px;
 }
+
 .menu {
     text-align:left;
     background-color: lightblue;
@@ -80,6 +83,9 @@ h2 {
     color: black; 
     text-decoration: none;
 }
+.sublist {
+list-style: none;
+}
 
 @media (min-width: 800px){
     .sublist {
@@ -88,6 +94,7 @@ h2 {
         background-color: lightblue;
         position: absolute;
         list-style: none;
+        text-decoration: none;
     }
     .dropdown:hover > .sublist {
         display: block;
