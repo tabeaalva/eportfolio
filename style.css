@@ -86,6 +86,9 @@ h2 {
 .sublist {
 list-style: none;
 }
+li {
+    font-size: 22px;
+}
 
 @media (min-width: 800px){
     .sublist {
