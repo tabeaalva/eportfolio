@@ -1,0 +1,21 @@
+# Lerndokumentation Projektmanagement & Präsentationen
+
+Autor: Tabea Reiffer
+
+Datum:17.9.2021
+
+Abteilung: Schule (Modul 431)
+
+Das Projektmanagement haben wir uns amgeschaut und was sich alles dahinter verbirgt. Ausserdem haben wir einige Präsentationen gehört. 
+
+## Die Präsentationen
+
+Das Ziel der Präsentation war es die einzelnen Personen der Klasse näher zu bringen und sie vorzustellen. Dies haben die meisten sehr gut erreicht und nun weiss ich schon viel mehr über meine Klasse. 
+Die Präsentationen haben jedoch nicht den ganzen Morgen eingenommen. Wir haben noch etwas über das Projektmanagement erfahren.
+
+## Das Projektmanagement
+
+Der Grund weshalb wir dieses Thema 2 Wochen lang gründlich angeschaut haben ist dass wir in Zukunt eigene Projekte planen und durchführen können müssen. Dies ist sehr wichtig für die zukünftige Arbeitsstelle die man antritt.
+das Projekmanagement behinhaltet sehr viele wichtige Punkte. Es gibt z.B. sher viele verschiedene Vorgehensmodelle wie das Spiralenmodell, dabei wird das Projekt immerwieder aud kleine Punkte verbessert und dreht sich natürlich wie eine Spirale. Das ist jedoch noch nicht alles denn wie schon gesagt gibt es sehr viele wichtige Punkte im planen eines Projektes. Im Bild unten können sie eine genaue Struktur eines Projektes erkennen. Oft wird es nach diesem Schema bearbeitet.
+
+![Projektmanagement](/files/projektmanagement.png)

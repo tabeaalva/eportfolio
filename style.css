@@ -3,7 +3,7 @@ body {
     color:lightblue;
     min-height: 100vh;
     display:grid;
-    grid-template-rows: auto 140px;
+    grid-template-rows: auto 200px;
     font-family: "Gemunu Libre";
         
 }
@@ -60,7 +60,7 @@ h2 {
 }
 .markdown > p > img {
     margin-bottom: 3em;
-    width: 55%;
+    width: 60%;
     max-width: 800px;
 }
 
@@ -71,7 +71,7 @@ h2 {
     flex-direction: row;
     justify-content: space-between;
     width: 290px;
-    height: 140px;
+    height: 200px;
 }
 .list {
     color: black;
@@ -85,6 +85,9 @@ h2 {
 }
 .sublist {
 list-style: none;
+}
+a:hover {
+    color:grey;
 }
 li {
     font-size: 22px;
