@@ -3,8 +3,8 @@ body {
     color:lightblue;
     min-height: 100vh;
     display:grid;
-    grid-template-rows: auto 200px;
-    font-family: "Gemunu Libre";
+    grid-template-rows: auto 240px;
+    font-family: "Stick No Bills";
         
 }
 h1 {
@@ -71,7 +71,7 @@ h2 {
     flex-direction: row;
     justify-content: space-between;
     width: 290px;
-    height: 200px;
+    height: 80px;
 }
 .list {
     color: black;

@@ -1,5 +1,6 @@
 <?php require "../lib/Parsedown.php";?>
 <?php 
+var_dump($_SERVER["REQUEST_URI"]); 
 $Parsedown = new Parsedown();
 $contents = file_get_contents("../text.txt");
 ?>
