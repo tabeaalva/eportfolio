@@ -1,0 +1,15 @@
+<?php require "../lib/Parsedown.php";
+ include "../header.php"; 
+ $Parsedown = new Parsedown();
+?>
+
+
+<body class="mainpage">
+    <main class="container">
+   <?= $Parsedown->text($contents);?>
+   
+    </main>
+    <?php include "../footer.php";?>
+
+</body>
+</html>

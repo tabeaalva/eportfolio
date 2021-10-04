@@ -1,4 +1,12 @@
- # Lerndokumentation Problemlösungskonzepte
+title: Lerndokumentation Problemlösungskonzepte
+
+----
+
+date: 3.9.2021
+
+++++ 
+
+# Lerndokumentation Problemlösungskonzepte
         
 Autor: Tabea Reiffer
 
