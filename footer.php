@@ -1,5 +1,4 @@
 
-
 <footer class ="menu">
 <nav>
 <ul class="list">

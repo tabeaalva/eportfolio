@@ -1,5 +1,5 @@
 <?php include "header.php";
-var_dump($_SERVER);
+
 ?>
 <body class="mainpage">
     <main class="container">
