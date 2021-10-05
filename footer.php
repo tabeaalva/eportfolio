@@ -2,7 +2,7 @@
 <footer class ="menu">
 <nav>
 <ul class="list">
-    <li><a href="/index.php"> Das ePortfolio</a></li>
+    <li><a href="/"> Das ePortfolio</a></li>
     <li class="dropdown"><a href="/journal"> Die Lerndokumentation</a>
         <ul class="sublist">
             <li><a href="/journal/2021-08-20"> Kompetenzen</a></li>

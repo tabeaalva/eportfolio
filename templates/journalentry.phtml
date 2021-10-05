@@ -1,12 +1,12 @@
-<?php require "../lib/Parsedown.php";
- include "../header.php"; 
+<?php require __DIR__ . "/../lib/Parsedown.php";
+ include __DIR__ . "/../header.php"; 
  $Parsedown = new Parsedown();
 ?>
 
 <body>
 <main class="container markdown" >
-    <?= $Parsedown->text($contents);?>    
+    <?= $Parsedown->text($text);?>    
 </main>
-    <?php include "../footer.php";?>
+    <?php include __DIR__ . "/../footer.php";?>
 </body>
 </html>

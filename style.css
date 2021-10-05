@@ -5,32 +5,19 @@ body {
     display:grid;
     grid-template-rows: auto 240px;
     font-family: "Stick No Bills";
-        
+    font-size:22px;
 }
 h1 {
     font-size:35px;
 }
 p {
-    
-    font-size:22px;
-}
-.picture08-20 {
-    margin-bottom: 3em;
-    width: 300px;
-    height: 300px;
-}
-.picture08-27 {
-    width: 450px;
-    height: 260px;
-    margin-bottom: 3em;
+    margin-top: 2em;
 }
 .title {
     font-size:50px;
 }
 .paragraph {
     margin-top:1em;
-    font-size: 25px;
-
 }
 .container {
     max-width: 800px;
@@ -45,25 +32,26 @@ p {
 .maintitle {
     font-size: 60px;
 }
-.heroimage {
-    margin-right: auto;
-    margin-left: auto;
-    width: 550px;
-    height: 275px;
-}
 h2 {
     margin-top: 2em;
 }
 .outlook {
     list-style: none;
-    font-size: 22px;
 }
 .markdown > p > img {
+    margin-top: 1em;
     margin-bottom: 3em;
     width: 60%;
     max-width: 800px;
 }
+.mainpicture {
+    filter: grayscale(100%);
+    margin-top: 1em;
+    margin-bottom: 3em;
+    width: 50%;
+    max-width: 800px;
 
+}
 .menu {
     text-align:left;
     background-color: lightblue;
@@ -79,19 +67,17 @@ h2 {
     
 }
 .list a {
-    font-size: 20px;
     color: black; 
     text-decoration: none;
 }
+
 .sublist {
-list-style: none;
+    list-style: none;
 }
 a:hover {
     color:grey;
 }
-li {
-    font-size: 22px;
-}
+
 
 @media (min-width: 800px){
     .sublist {
