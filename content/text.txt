@@ -3,8 +3,8 @@ title: Die Lerndokumentation
 ++++
 
 # Die Lerndokumentation
-        
-Die Lerndokumentation ist ein branchenunabhängiges Arbeitsinstrument zur Förderung der betrieblichen Bildung. Sie unterstützt und begleitet sowohl die Lernenden als auch ihre Berufsbildner/innen während der Grundbildung. Bei den meisten Berufen ist das Führen einer Lerndokumentation vorgeschrieben.
+
+Die Lerndokumentation ist ein branchenunabhängiges Arbeitsinstrument zur Förderung der betrieblichen Bildung. Sie unterstützt und begleitet sowohl die Lernenden, als auch ihre Berufsbildner/innen während der Grundbildung. Bei den meisten Berufen ist das Führen einer Lerndokumentation vorgeschrieben.
 
 Die lernende Person hält in der Lerndokumentation ihren Lernprozess fest: alle wesentlichen Arbeiten,
 die erworbenen Fähigkeiten und die Erfahrungen, die sie im Lehrbetrieb macht. Die Lerndokumentation dient ihr zudem als Nachschlagewerk.

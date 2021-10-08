@@ -5,7 +5,7 @@ title: Das ePortfolio
 # Das ePortfolio
 
 
-Ein E-Portfolio ist eine Ablage für Informationen die man immer wieder verwenden kann oder auch sein Lernfortschritt festhalten und dokumentieren kann.
+Ein ePortfolio ist eine Ablage für Informationen, die man immer wieder verwenden kann oder auch seinen Lernfortschritt festhalten und dokumentieren kann.
 
 Dieses ePortfolio wurde erstellt für den Unterricht des Modules 431.
 
