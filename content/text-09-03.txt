@@ -4,30 +4,30 @@ title: Lerndokumentation Problemlösungskonzepte
 
 date: 3.9.2021
 
-++++ 
+++++
 
 # Lerndokumentation Problemlösungskonzepte
-        
+
 Autor: Tabea Reiffer
 Datum: 03.9.2021
 Abteilung: Schule (Modul 431)
-        
-Diese Woche haben wir verschiedene Lösungsmethoden angeschaut und damit gearbeitet und sie analysiert welche geeignet ist für welches Problem. Wir haben uns 3 angeschaut:
-    
-## 635 Methode 
-   
-Die 635 Methode beruht grundlegend auf folgendem Konzept: 6 Teilnehmer erhalten ein Blatt Papier und schreiben in einer Tabelle zu der Fragestellung 3 passende Ideen auf. 
-Nach 2 oder mehr Minuten wird das Blatt im Kreis herum gereicht und der nächste probiert die bereits genannten Ideen aufzugreifen zu ergänzen und weiterentwickeln.
-   
+
+Diese Woche haben wir verschiedene Lösungsmethoden angeschaut, damit gearbeitet und analysiert, welche Methode für welches Problem geeignet ist. Wir haben uns 3 angeschaut:
+
+## 635 Methode
+
+Die 635 Methode beruht grundlegend auf folgendem Konzept: 6 Teilnehmer erhalten ein Blatt Papier und schreiben in einer Tabelle zu der Fragestellung 3 passende Ideen auf.
+Nach 2 oder mehr Minuten wird das Blatt im Kreis herum gereicht und der Nächste probiert die bereits genannten Ideen aufzugreifen zu ergänzen und weiterentwickeln.
+
 ## BW (brain writing)
- 
+
 Das Brainwriting wird unterteilt in 2 Phasen:
 1. Jeder entwickelt alleine strukturierte Ideen zu der Fragestellung. In dieser Phase sind Bewertungen von aussenstehenden Personen verboten.
-2. In der 2. Phase werden die Ergebnisse verglichen und die besten Ideen herausgepick  
-   
+2. In der 2. Phase werden die Ergebnisse verglichen und die besten Ideen herausgepickt.
+
 ## SLT (Strukturtechnik)
-        
-Bei der SLT-Methode werden unhabhängig voneinander Karten zu den verschiedenen Lösungsschritten konstruiert. Diese werden dann zusammengesetzt dass es die Fragestellung betrifft und möglichst schnell und effizient gelöst werden kann. 
+
+Bei der SLT-Methode werden unhabhängig voneinander Karten zu den verschiedenen Lösungsschritten konstruiert. Diese werden dann zusammengesetzt, dass es die Fragestellung betrifft und diese möglichst schnell und effizient gelöst werden kann.
 Der Hauptbestandteil der SLT-Methode ist sozusagen einen Lösungsweg auf Karteikarten zu basteln und den Weg zur Lösung so zu definieren.
-   
+
 Mir hat die SLT-Methode am meisten zugesagt.
