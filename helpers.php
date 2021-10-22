@@ -23,12 +23,6 @@ function parse_content($rawcontent){
     $title = $meta["title"];
     //the splittet text
     $text = $content[1];
-    //should give the result from the function
-    // $result = [
-    //     "title" => $title,
-    //     "text" => $text,
-    //     "meta" => $meta,
-    // ];
     $result = compact("title", "text", "meta");
     //returns the result
     return $result;
